@@ -11,11 +11,11 @@ print("       | |_) | |  | |_| |            ")
 print("       |_.__/|_|   \__,_|              ")                                     
                                                                             
             
-        print ("  nice ")
+        print ("nice")
 """)
 
 z = """     
-       print ("Checking the server ")
+       print ("Checking the server")
         
         
     print ("wait damm second")
